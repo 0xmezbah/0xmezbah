@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mezbah
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Hello World! I'm Mezbah
 
 Passionate about AppSec and Python. Building tools to break (and fix) things properly.
 
