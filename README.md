@@ -1,12 +1,12 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Hello World! I'm Mezbah
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" alt="Earth gif"> Hi, I'm Mezbah!
 
-Passionate about AppSec and Python. Building tools to break (and fix) things properly.
+---
+Python coder, AppSec enthusiast ! Making the web a litt safer, one tool at a time.
 
-## Currently upto with
-- 🔒 Learning application security
-- 🐍 Coding in Python
-- 🛠️ Building security tools
-- 🌐 Making the web safer
+**Currently upto With:**
+- AppSec!
+- Fun Python projects.
+- Crafting helpful little tools.
 
-### Current Projects
-- 📝 Security automation scripts
+**Working on:**
+- Automation tools
